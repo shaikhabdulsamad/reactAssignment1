@@ -1,0 +1,36 @@
+body{
+    margin: 0 10px 0 10px
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-between;
+}
+.main>li{
+    width: 30%;
+}
+.card{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.card1{
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding: 10px;
+
+    
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+li{
+list-style: none;
+}
+label{
+    font-weight: bold;
+}
+p{
+    margin: 0;
+}
